@@ -1,1 +1,1 @@
-TANUSHRI Rittwik# BEd-SIMD
+# BEd-SIMD
